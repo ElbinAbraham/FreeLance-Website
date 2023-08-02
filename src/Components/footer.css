@@ -1,0 +1,316 @@
+.main-content{
+  display: flex;
+  background-color: #0067A5;
+  color: white;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.social a:link,
+.social a:visited, .place-marker, .phone-marker, .email-marker{
+  color: #0067A5;
+  text-decoration: none;
+}
+
+.left{
+  padding: 2rem;
+  width:50%;
+}
+
+.left h2{
+  font-size: 3rem;
+  font-weight: 600;
+  width:80%;
+  text-align: flex-start;
+  border-bottom: 5px solid;
+  border-image: linear-gradient(to right, rgb(0,0,0) 40%, rgb(252, 252, 252) 50%) 1;
+}
+
+.left .content{
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.left .content .place {
+  display: flex;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.left .content .place .place-marker {
+  font-size: 1.8rem;
+  margin-right: 1rem;
+  background: #fdfafa;
+  border: solid 5px white;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+.left .content .place .text{
+  height:50px;
+  transform: translateY(20%);
+  margin: 0;
+}
+
+.left .content .place .place-marker:hover{
+  color: rgb(248, 246, 246) ;
+  background: #0067A5;
+  border: solid 5px #0067A5;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+
+
+.left .content .phone{
+  display: flex;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.left .content .phone .phone-marker{
+  font-size: 1.8rem;
+  margin-right: 1rem;
+  background: #fdfafa;
+  border: solid 5px white;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+.left .content .phone .text{
+  height:50px;
+  transform: translateY(20%);
+  margin: 0;
+}
+
+.left .content .phone .phone-marker:hover{
+  color: rgb(248, 246, 246) ;
+  background: #0067A5;
+  border: solid 5px #0067A5;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+.left .content .email{
+  display: flex;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.left .content .email .email-marker{
+  font-size: 1.8rem;
+  margin-right: 1rem;
+  background: #fdfafa;
+  border: solid 5px white;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+.left .content .email .text{
+  height:50px;
+  transform: translateY(20%);
+  margin: 0;
+}
+
+.left .content .email .email-marker:hover{
+  color: rgb(248, 246, 246) ;
+  background: #0067A5;
+  border: solid 5px #0067A5;
+  height: 45px;
+  width: 45px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+  align-self: center;
+}
+
+
+.left .social{
+  display: flex;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.left .social a{
+  margin: 0rem 1rem 0rem 0rem;
+  height: 40px;
+  width: 40px;
+  background: #fefafa;
+  line-height: 40px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+.left .social a:hover{
+  color:white;
+  background:#0067A5;
+  line-height: 40px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+/* footer right css   
+*/
+
+.right{
+  padding: 2rem;
+  width:50%;
+}
+
+.right h2{
+  font-size: 3rem;
+  font-weight: 600;
+  width:80%;
+  text-align: flex-start;
+  border-bottom: 5px solid;
+  border-image: linear-gradient(to right, rgb(0, 0, 0) 40%, rgb(252, 252, 252) 50%) 1;
+}
+
+.right .content{
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.right .content .email{
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.right .email input{
+  width: 40vw;
+  height: 5vh;
+}
+
+.right .content .message{
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+.right .content .message textarea{
+  width: 40vw;
+  height: 10vh;
+}
+
+.right .content .btn{
+  margin-top: 1rem;
+}
+
+
+.right .content .msg1{
+  display: none;
+}
+.right .content .bat{
+  width: 6rem;
+  height: 2rem;
+  font-size: 1.3rem;
+  background-color: white;
+  color: black;
+  border-radius: 3rem;
+}
+.right .content .bat:hover{
+  width: 6rem;
+  height: 2rem;
+  font-size: 1.3rem;
+  background-color: white;
+  color: black;
+}
+
+
+
+@media screen and (max-width: 768px){
+  .container{
+    flex-direction: column;
+  }
+
+  .left{
+    width: 100%;
+  }
+
+  .left .content .place{
+    font-size: 1.2rem;
+  }
+
+  .left .content .phone{
+    font-size: 1.2rem;
+  }
+
+  .left .content .email{
+    font-size: 1.2rem;
+  }
+
+  .left .social{
+    font-size: 1rem;
+  }
+
+  .right{
+    width: 100%;
+  }
+
+  .right h2{
+    font-size: 1.5rem;
+  }
+
+  .right .content .email{
+    font-size: 1.2rem;
+  }
+
+  .right .content .msg{
+    display: none;
+  }
+
+  .right .content .msg1{
+    display:contents;
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+  }
+}
+  
+
+
+
+
+
