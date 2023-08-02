@@ -1,0 +1,52 @@
+.Section6{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 25px;
+    margin: 4rem 0rem 5rem 4rem;
+}
+
+.Section7 .vision{
+    width: 700px;
+    padding: 1rem 0rem;
+}
+.Section7 .head{
+    font-size: 35px;
+    align-items: start;
+}
+
+
+.Section8 video{
+    transform: translateY(10%);
+    margin-left: 2rem;
+    width:604px;
+    height:350px;
+    border: 10px solid #0067A5;
+}
+
+@media screen and (max-width: 768px) {
+    .Section6{
+        margin-left:6rem;
+        flex-direction: column;
+    }
+    .Section7 .head{
+        font-size: 35px;
+        width: auto;
+        justify-content: center;
+    }
+    .Section7 .vision{
+        width: 600px;
+        text-align: justify;
+    }
+
+    .Section8{
+        margin-left: 0px;
+        margin-bottom: 2rem;
+    }
+
+    .Section8 video{
+        width: 550px;
+        height: 300px;
+    }
+}
+    

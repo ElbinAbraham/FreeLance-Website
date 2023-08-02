@@ -1,0 +1,52 @@
+.Section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 3rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.Section1 {
+  display: flex;
+  width:45%;
+  height: 50vh;
+  padding: 2rem;
+}
+
+.Section1 .Ajay{
+  width: 550px;
+  height: 300px;
+}
+
+.Section2 {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.founder {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+  font-size: 25px;
+  padding-bottom: 1rem;
+  font-weight: 100;
+  font-family: "Droid Serif", serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Droid Serif", serif;
+}
+
+
+@media screen and (max-width: 768px) {
+  .Section{
+    flex-direction: column;
+  }
+
+  
+}

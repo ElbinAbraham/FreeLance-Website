@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.my_splide {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.my_splide .splide__arrow {
+  padding: 0.5vw;
+  font-size: 2rem;
+  text-align: center;
+}
