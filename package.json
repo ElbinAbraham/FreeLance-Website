@@ -1,5 +1,6 @@
 {
   "name": "ajay-web",
+  "homepage":"https://elbinabraham.github.io/FreeLance-Website/home"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
