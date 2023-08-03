@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Navbar from "./Components/navbar";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./Components/pages/Home";
 import Category from "../src/Components/pages/Category";
 import details from '../src/Components/details.js';
@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route path="#/home" element={<Home />} />
           <Route path="/category" element={<Category details={details} />} />
           <Route path="/slick-des" element={<Slickpage details={details} />} />
           <Route path="/super-slick" element={<SuperSlick details={details} />} />
