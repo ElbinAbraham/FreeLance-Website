@@ -24,8 +24,8 @@ const About3 = () => {
           </p>
         </div>
         <div className="Section8">
-        <video src={video1}  autoplay="true" loop muted controls>
-        </video>
+        {/* <video src={#}  autoplay="true" loop muted controls> */}
+        {/* </video> */}
         </div>
       </div>
     </>
