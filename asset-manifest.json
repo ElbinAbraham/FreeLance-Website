@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/FreeLance-Website/static/css/main.cc7ac5fc.css",
-    "main.js": "/FreeLance-Website/static/js/main.2e93c0da.js",
+    "main.js": "/FreeLance-Website/static/js/main.ed4d1de8.js",
+    "static/media/Untitled.mp4": "/FreeLance-Website/static/media/Untitled.8be5d9e8c6cc15bda0c0.mp4",
     "static/media/df1d5dd2-9329-48cb-84cf-7e73db43de10.png": "/FreeLance-Website/static/media/df1d5dd2-9329-48cb-84cf-7e73db43de10.73f7827a567f848f15be.png",
     "static/media/Thumbnail_.png": "/FreeLance-Website/static/media/Thumbnail_.4c9285a70a9af9ea4c95.png",
     "static/media/Washed Denim Fabric Soft Denim Fabric Stretch Denim - Etsy.png": "/FreeLance-Website/static/media/Washed Denim Fabric Soft Denim Fabric Stretch Denim - Etsy.90ae788074fbe842e42b.png",
@@ -176,10 +177,10 @@
     "static/media/slick.woff": "/FreeLance-Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FreeLance-Website/index.html",
     "main.cc7ac5fc.css.map": "/FreeLance-Website/static/css/main.cc7ac5fc.css.map",
-    "main.2e93c0da.js.map": "/FreeLance-Website/static/js/main.2e93c0da.js.map"
+    "main.ed4d1de8.js.map": "/FreeLance-Website/static/js/main.ed4d1de8.js.map"
   },
   "entrypoints": [
     "static/css/main.cc7ac5fc.css",
-    "static/js/main.2e93c0da.js"
+    "static/js/main.ed4d1de8.js"
   ]
 }
