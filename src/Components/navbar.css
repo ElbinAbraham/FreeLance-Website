@@ -183,7 +183,7 @@
     justify-content:start;
     margin-right:5px;
   }
-  .social1{
+  .social1, .fa-brands, .fab {
     font-size: 15px;
   }
 
