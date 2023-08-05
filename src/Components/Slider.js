@@ -17,7 +17,7 @@ const SplideSlider = ({ images }) => {
       {images.map((image, index) => (
         <SplideSlide key={index}>
           <img class= "Slider-images1" src={image.url} style={{ width: "100vw", height: "70vh" }} alt="product"/>
-          <img class= "Slider-images2" src={image.url} style={{ width: "100vw", height: "250px" }} alt="product"/>
+          <img class= "Slider-images2" src={image.url} style={{ width: "100vw", height: "25px" }} alt="product"/>
           <div
             style={{
               position: "absolute",
