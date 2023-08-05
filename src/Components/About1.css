@@ -48,5 +48,25 @@ h1 {
     flex-direction: column;
   }
 
+  .Section1{
+    width:315px;
+    margin-left: 1rem;
+  }
+  .Section1 .Ajay{
+    width: 100px;
+    height: 100px;
+  }
+
+  .Section2{
+    width: 315px;
+    margin-left: 1rem;
+    font-size: 25px;
+  }
+  .Section2 .founder{
+    font-size: 20px;
+    margin-left: 1rem;
+    width: 315px;
+    flex-wrap: wrap;
+  }
   
 }
