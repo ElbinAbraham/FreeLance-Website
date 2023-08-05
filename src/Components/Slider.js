@@ -1,7 +1,7 @@
 import React from "react";
 import "@splidejs/splide/dist/css/splide.min.css";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
-import "../Components/AutoCarousel.css";
+import "../Components/Slider.css";
 
 const SplideSlider = ({ images }) => {
   const splideoptions = {
@@ -16,7 +16,7 @@ const SplideSlider = ({ images }) => {
     <Splide options={splideoptions} className="my_splide">
       {images.map((image, index) => (
         <SplideSlide key={index}>
-          <img src={image.url} style={{ width: "100vw", height: "70vh" }} alt="product"/>
+          <img class= "Slider-images" src={image.url} alt="product"/>
           <div
             style={{
               position: "absolute",

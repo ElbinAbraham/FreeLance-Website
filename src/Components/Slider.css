@@ -1,0 +1,30 @@
+.my_splide {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.my_splide .splide__arrow {
+  padding: 0.5vw;
+  font-size: 2rem;
+  text-align: center;
+}
+.my_splide .Slider-images{
+  width: "100vw"; 
+  height: "70vh"; 
+}
+
+
+@media screen and (max-width: 768px) {
+  .my_splide .splide__arrow {
+    padding: 0.5vw;
+    font-size: 1rem;
+    text-align: calc(50% - 2rem);
+  }
+  .my_splide .Slider-images{
+    width: "80vw"; 
+    height: "10vh"; 
+  }
+
+}
