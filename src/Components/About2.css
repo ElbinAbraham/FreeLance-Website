@@ -24,20 +24,21 @@
 
 @media screen and (max-width: 768px) { 
     .Section3{
-        margin-left:6rem;
+        margin-left:1rem;
         display: flex;
         flex-wrap: wrap;
-        margin-right: 6rem;
+        margin-right: 0rem;
     }
     
     .Section4 {
-        margin-left: 0rem;
         padding: 0rem;
         text-align: start;
-        width: 400px;
+        width: 350px;
+        font-size: 25px;
     }
 
-    .Section5 .comp{
-        margin-left: 0rem;
+    .Section5 .comp1{
+        margin-left: 1rem;
+        font-size:20px;
     }
 }
