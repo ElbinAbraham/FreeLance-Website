@@ -264,7 +264,7 @@
 @media screen and (max-width: 768px){
   .container{
     flex-direction: column;
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .left{
@@ -272,15 +272,15 @@
   }
 
   .left .content .place{
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .left .content .phone{
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .left .content .email{
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .left .social{
@@ -292,11 +292,11 @@
   }
 
   .right h2{
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .right .content .email{
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .right .content .msg{
@@ -306,7 +306,7 @@
   .right .content .msg1{
     display:contents;
     flex-wrap: wrap;
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 }
   
