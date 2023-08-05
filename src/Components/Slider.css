@@ -20,14 +20,14 @@
     display: flex;
     flex-wrap: wrap;
     margin-top: 1rem;
-    width:315px;
-    height:300px;
+    width:100vw;
+    height:250px;
     margin-bottom: 3rem;
   }
 
   .my_splide .splide__arrow {
     padding: 0.5vw;
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .my_splide .Slider-images{
     width: auto;
