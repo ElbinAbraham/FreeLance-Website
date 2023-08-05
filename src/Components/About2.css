@@ -25,15 +25,15 @@
 @media screen and (max-width: 768px) { 
     .Section3{
         margin-left:0.5rem;
-        width: 300px;
+        width: 310px;
         display: flex;
         flex-wrap: wrap;
         margin-right: 0rem;
     }
     
-    .Section4 {
+    .Section4 .comp{
         text-align: start;
-        font-size: 25px;
+        font-size: 22px;
     }
 
     .Section5 .comp1{
