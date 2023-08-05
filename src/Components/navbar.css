@@ -115,101 +115,6 @@
   .menu-icon {
     display: none;
   }
-  @media screen and (max-width: 768px) { 
-    .navbar{
-      font-size: 10px;
-      width: 100vw;
-    }
-
-    .logo{
-      cursor: pointer;
-      width: 15rem;
-      height: 5rem;
-      mix-blend-mode: color-burn;
-    }
-    .NavbarItems {
-      position: relative;
-    }
-
-    .nav-menu {
-      display: flex;
-      flex-direction: column;
-      width: 50%;
-      height: 90vh;
-      position: absolute;
-      top: 80px;
-      left: -100%;
-      opacity: 1;
-      transition: all 0.5s ease;
-    }
-
-    .nav-menu.active {
-      background: #242222;
-      left: 0;
-      opacity: 1;
-      transition: all 0.5s ease;
-      z-index: 1;
-    }
-
-    .nav-links {
-      text-align: center;
-      padding: 2rem;
-      width: 100%;
-      display: table;
-    }
-
-    .nav-links:hover {
-      background-color: #0067A5;
-      border-radius: 0;
-    }
-
-    .navbar-logo {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: translate(80%, 50%);
-    }
-
-    .menu-icon {
-      display: block;
-      position: absolute;
-      top: 0;
-      right: 0;
-      transform: translate(-100%, 60%);
-      font-size: 1.8rem;
-      cursor: pointer;
-    }
-
-    .fa-times {
-      color: #fff;
-      font-size: 2rem;
-    }
-
-    .nav-links-mobile {
-      display: block;
-      text-align: center;
-      padding: 1.5rem;
-      margin: 2rem auto;
-      border-radius: 4px;
-      width: 80%;
-      background: #0067A5;
-      text-decoration: none;
-      color: #fff;
-      font-size: 1.5rem;
-    }
-
-    .nav-links-mobile:hover {
-      background: #fff;
-      color: #0067A5;
-      transition: 250ms;
-    }
-
-    button {
-      display: none;
-    }
-  }
-  margin-left: 0.5rem;
-  font-size: 1.6rem;
 }
 
 .nav-menu {
@@ -253,3 +158,11 @@
   display: none;
 }
 
+
+@media screen and (max-width: 768px){
+
+  .navbar{
+    width: 100vw;
+  }
+
+}
