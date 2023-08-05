@@ -175,5 +175,13 @@
     width:20px;
     height:15px;
   }
+  .nav-menu {
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    grid-gap: 5px;
+    width: 100%;
+    justify-content:start;
+    margin-right:5px;
+  }
 
 }
