@@ -10,10 +10,13 @@
   font-size: 2rem;
   text-align: center;
 }
-.my_splide .Slider-images{
-
+.my_splide .Slider-images1{
+  display: flex;
 }
 
+.my_splide .Slider-images2{
+  display: none;
+}
 
 @media screen and (max-width: 768px) {
   .my_splide {
@@ -29,9 +32,11 @@
     padding: 0.5vw;
     font-size: 0.5rem;
   }
-  .my_splide .Slider-images{
-    width: auto;
-    height:250px;
+  .my_splide .Slider-images1{
+    display: none;
+  }
+  .my_splide .Slider-images1{
+    display: flex;
   }
 
   .my_splide .name {
