@@ -116,14 +116,14 @@
     display: none;
   }
 
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 480px) {
     .logo{
-      margin-left: -61px;
+      margin-left: -52px;
       margin-top: -40px;
       cursor: pointer;
       width: 15rem;
-      height: 6rem;
-      mix-blend-mode: multiply;
+      height: 5rem;
+      mix-blend-mode: color-burn;
     }
     .NavbarItems {
       position: relative;
