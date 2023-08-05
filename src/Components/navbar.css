@@ -134,7 +134,7 @@
     .nav-menu {
       display: flex;
       flex-direction: column;
-      width: 100%;
+      width: 50%;
       height: 90vh;
       position: absolute;
       top: 80px;
@@ -215,10 +215,10 @@
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(5, auto);
-  grid-gap: 10px;
+  grid-gap: 5px;
   list-style: none;
   text-align: center;
-  width: 70vw;
+  width: 100vw;
   justify-content: end;
   margin-right: 2rem;
 }
