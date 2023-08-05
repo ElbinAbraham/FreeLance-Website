@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FreeLance-Website/static/css/main.1e4a614b.css",
-    "main.js": "/FreeLance-Website/static/js/main.954f2b88.js",
+    "main.js": "/FreeLance-Website/static/js/main.b7376752.js",
     "static/media/df1d5dd2-9329-48cb-84cf-7e73db43de10.png": "/FreeLance-Website/static/media/df1d5dd2-9329-48cb-84cf-7e73db43de10.73f7827a567f848f15be.png",
     "static/media/Thumbnail_.png": "/FreeLance-Website/static/media/Thumbnail_.4c9285a70a9af9ea4c95.png",
     "static/media/Washed Denim Fabric Soft Denim Fabric Stretch Denim - Etsy.png": "/FreeLance-Website/static/media/Washed Denim Fabric Soft Denim Fabric Stretch Denim - Etsy.90ae788074fbe842e42b.png",
@@ -52,7 +52,6 @@
     "static/media/IMG-20230719-WA0023.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0023.bf7adaf0df067961cc36.jpg",
     "static/media/IMG-20230719-WA0030.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0030.01a12480633045e33658.jpg",
     "static/media/Thumbnail2.jpg": "/FreeLance-Website/static/media/Thumbnail2.ab3535a30e1c88a57abb.jpg",
-    "static/media/Cover Page.jpeg": "/FreeLance-Website/static/media/Cover Page.f66313f3b6227858a8d2.jpeg",
     "static/media/Imitation Jewellery Necklace Sets.jpg": "/FreeLance-Website/static/media/Imitation Jewellery Necklace Sets.c34dfe4770108f615968.jpg",
     "static/media/IMG-20230719-WA0002.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0002.6be93b294e7d2fed641c.jpg",
     "static/media/Dry Red Chillies.jpg": "/FreeLance-Website/static/media/Dry Red Chillies.1e5ac8f88551756fd6d0.jpg",
@@ -60,7 +59,6 @@
     "static/media/IMG-20230719-WA0017.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0017.445fad8ae6a3659bd8e9.jpg",
     "static/media/IMG-20230719-WA0018.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0018.01b24b5c4afcfe6e95bc.jpg",
     "static/media/logo.jpg": "/FreeLance-Website/static/media/logo.8dc4a251890f13059cc5.jpg",
-    "static/media/Cotton 2.png": "/FreeLance-Website/static/media/Cotton 2.0268253011bfc2c071b0.png",
     "static/media/IMG-20230719-WA0039.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0039.edd1b1bd080edf5f85e5.jpg",
     "static/media/IMG-20230719-WA0003.jpg": "/FreeLance-Website/static/media/IMG-20230719-WA0003.436e7530dff4adca42e6.jpg",
     "static/media/Imitation Coin Necklace.jpg": "/FreeLance-Website/static/media/Imitation Coin Necklace.81572e030dac6d740131.jpg",
@@ -121,7 +119,6 @@
     "static/media/Sesame1.webp": "/FreeLance-Website/static/media/Sesame1.04c1558aec48965d0076.webp",
     "static/media/Cotton 1.jpg": "/FreeLance-Website/static/media/Cotton 1.bf9ab9c881b3bdcf4e15.jpg",
     "static/media/Diamond Jewellery Necklace.jpg": "/FreeLance-Website/static/media/Diamond Jewellery Necklace.4c14cd34d87bcaada2a3.jpg",
-    "static/media/Cover Page.webp": "/FreeLance-Website/static/media/Cover Page.e6adbb3977e108c7f7cb.webp",
     "static/media/img1023.jpg": "/FreeLance-Website/static/media/img1023.9f5f0706ef6dd05e8d45.jpg",
     "static/media/img5923.jpg": "/FreeLance-Website/static/media/img5923.954ac69d0b09d2b85161.jpg",
     "static/media/img1021.jpg": "/FreeLance-Website/static/media/img1021.65dda725e84f34282a4b.jpg",
@@ -176,10 +173,10 @@
     "static/media/slick.woff": "/FreeLance-Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FreeLance-Website/index.html",
     "main.1e4a614b.css.map": "/FreeLance-Website/static/css/main.1e4a614b.css.map",
-    "main.954f2b88.js.map": "/FreeLance-Website/static/js/main.954f2b88.js.map"
+    "main.b7376752.js.map": "/FreeLance-Website/static/js/main.b7376752.js.map"
   },
   "entrypoints": [
     "static/css/main.1e4a614b.css",
-    "static/js/main.954f2b88.js"
+    "static/js/main.b7376752.js"
   ]
 }
