@@ -14,7 +14,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home"  element={<Home />} />
+          <Route path="/"  element={<Home />} />
           <Route path="/category" element={<Category details={details} />} />
           <Route path="/slick-des" element={<Slickpage details={details} />} />
         </Routes>

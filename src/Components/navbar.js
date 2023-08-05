@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <>
       <nav className="navbar">
-        <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+        <Link to="/home" className="navbar-logo" onClick={closeMobileMenu}>
           <img src={logo} className="logo" alt="Ajay"/>
         </Link>
         <div className="menu-icon" onClick={handleClick}>
