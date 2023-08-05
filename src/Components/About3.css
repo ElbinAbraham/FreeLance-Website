@@ -26,17 +26,18 @@
 
 @media screen and (max-width: 768px) {
     .Section6{
-        margin-left:6rem;
+        margin-left:1rem;
         flex-direction: column;
     }
     .Section7 .head{
-        font-size: 35px;
+        font-size: 15px;
         width: auto;
-        justify-content: center;
+        justify-content: start;
     }
     .Section7 .vision{
-        width: 600px;
-        text-align: justify;
+        width: 200px;
+        font-size:12px;
+        text-align: start;
     }
 
     .Section8{
