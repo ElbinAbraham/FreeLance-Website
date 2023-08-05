@@ -166,4 +166,9 @@
     overflow-x: hidden;
   }
 
+  .navbar-logo{
+    position: start;
+    left: 10px;
+  }
+
 }
