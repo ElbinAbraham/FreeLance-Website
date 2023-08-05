@@ -44,8 +44,13 @@ h1 {
 
 
 @media screen and (max-width: 768px) {
-  .Section{
+  .Section {
+    display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 
   .Section1{
