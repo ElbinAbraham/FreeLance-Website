@@ -86,8 +86,8 @@ import tea5 from "../Components/images/Food/Tea/SquarePic_20230712_11303959.jpg"
 import tea6 from "../Components/images/Food/Tea/SquarePic_20230712_11313366.jpg";
 
 
-import Jewel from "../Components/images/Jewellery/Cover Page.jpeg";
-import Jewel1 from "../Components/images/Jewellery/Cover Page.webp";
+// import Jewel from "../Components/images/Jewellery/Cover Page.jpeg";
+// import Jewel1 from "../Components/images/Jewellery/Cover Page.webp";
 import Jewel2 from "../Components/images/Jewellery/Cover Page.jpg";
 import Jewellery0 from "../Components/images/Jewellery/Diamond Jewellery Necklace.jpg";
 import Jewellery1 from "../Components/images/Jewellery/Diamond Earings.jpg";
@@ -160,7 +160,6 @@ import Fabrics0 from "../Components/images/Fabrics/Cover Page.jpg";
 
 import Cotton0 from "../Components/images/Fabrics/Cotton/Thumbnail.jpg";
 import Cotton1 from "../Components/images/Fabrics/Cotton/Cotton 1.jpg";
-import Cotton2 from "../Components/images/Fabrics/Cotton/Cotton 2.png";
 import Cotton3 from "../Components/images/Fabrics/Cotton/Cotton 3.jpg";
 import Cotton4 from "../Components/images/Fabrics/Cotton/IDS CLOTHING_Fabric for sale.jpg";
 import Cotton5 from "../Components/images/Fabrics/Cotton/Tissu Habillement Coupons 3 Metres pas cher_ Lot de tissus.jpg";
