@@ -29,14 +29,16 @@
         margin-top:1rem;
         margin-left:1rem;
         flex-direction: column;
+
     }
     .Section7 .head{
         font-size: 25px;
         width: auto;
     }
     .Section7 .vision{
-        width: 350px;
+        width: 315px;
         font-size:20px;
+        flex-wrap: wrap;
     }
 
     .Section8{
