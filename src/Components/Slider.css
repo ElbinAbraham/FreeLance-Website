@@ -31,7 +31,10 @@
   }
   .my_splide .Slider-images{
     width: auto;
-    height: auto;
+    height:250px;
   }
 
+  .my_splide .name {
+    font-size: 0.5rem;
+  }
 }
