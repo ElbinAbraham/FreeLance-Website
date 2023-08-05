@@ -38,9 +38,13 @@ const SplideSlider = ({ images }) => {
             }}
           >
             <h1
-              className="name"
+              className="name1"
               style={{ fontSize: "50px", color: "#DEF2F1", fontStyle: "bold" }}
             >
+            <h1
+              className="name2"
+              style={{ fontSize: "20px", color: "#DEF2F1", fontStyle: "bold" }}
+            ></h1>
               {image.name}
             </h1>
           </div>

@@ -17,6 +17,12 @@
 .my_splide .Slider-images2{
   display: none;
 }
+.my_splide .name1 {
+  display: contents;
+}
+.my_splide .name2 {
+  display: none;
+}
 
 @media screen and (max-width: 768px) {
   .my_splide {
@@ -38,8 +44,10 @@
   .my_splide .Slider-images2{
     display: flex;
   }
-
-  .my_splide .name {
-    font-size: 0.5rem;
+  .my_splide .name1 {
+    display: none;
+  }
+  .my_splide .name2 {
+    display: contents;
   }
 }
