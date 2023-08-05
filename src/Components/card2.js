@@ -5,7 +5,6 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import "./card2.css";
-import RecentlyViewedCard from "./recentlyViewedCard";
 
 const CardItems = ({
   card,

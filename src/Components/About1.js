@@ -1,14 +1,13 @@
 import React from "react";
 import "./About1.css";
 import Ajay from "../Components/images/Ajay pics/Ajaypic.png";
-import ReadMore from "./button";
 
 function About1() {
   return (
     <>
       <div className="Section">
         <div className="Section1">
-          <img className="Ajay" src={Ajay} />
+          <img className="Ajay" src={Ajay} alt="Founder"/>
         </div>
         <div className="Section2">
           <h1>About our Founder</h1>

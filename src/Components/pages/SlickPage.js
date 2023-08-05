@@ -1,7 +1,6 @@
 import React from "react";
 import ImageGallery from "../slick";
 import { useLocation } from "react-router-dom";
-import Footer from '../footer';
 
 function Slickpage({ details }) {
   const location = useLocation();
@@ -9,6 +8,7 @@ function Slickpage({ details }) {
   const subCategory = location.state.subCategory;
   const passedDetails = location.state.details; // access the passed details here
 
+  console.log(passedDetails)
   let filteredArray = [];
   let desc = "";
 
@@ -44,7 +44,6 @@ function Slickpage({ details }) {
   return (
     <>
       <ImageGallery filteredArray={filteredArray} desc={desc} />
-
     </>
   );
 }

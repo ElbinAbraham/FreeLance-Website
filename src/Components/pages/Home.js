@@ -21,6 +21,7 @@ function Home() {
       <About1 />
       <CardItems card={details} onCardClick={handleCardClick} />
       <About2 />
+      <About3 />
       <Footer />
     </>
   );

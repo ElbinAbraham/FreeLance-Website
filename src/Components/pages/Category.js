@@ -19,11 +19,11 @@ function Category({ details }) {
 
   function handleCardClick(card) {
     if (card.superCategory) {
-      navigate("/Supercategory", {
+      navigate("/slick-des", {
         state: {
           category: card.category,
           subCategory: card.subCategory,
-          superCategory: card.superCategory,
+          details: card.details
         }
       });
     } else {

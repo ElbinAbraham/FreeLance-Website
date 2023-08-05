@@ -397,7 +397,7 @@ const details = [
           point2:"Types: ",
           point3:
             "1.Basmati rice: Basmati rice is a long-grain rice that is known for its distinctive aroma and flavour. It is often used in Indian and Middle Eastern cuisine and is popular for dishes such as biryani, pilaf, and pulao. Basmati rice is also preferred by consumers who are health-conscious due to its low glycemic index.",
-          point2:
+          point4:
             "2.Non-Basmati rice: Non-Basmati rice, on the other hand, includes several varieties such as Sona Masuri, Ponni, and IR64, among others. These varieties of rice are medium-grain or short-grain rice and are often used in dishes such as idlis, dosas, and rice bowls. Non-Basmati rice is also used in the production of rice flour, which is used in many food products.",
         },
         has: [

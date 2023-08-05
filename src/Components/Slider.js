@@ -5,7 +5,6 @@ import "../Components/AutoCarousel.css";
 
 const SplideSlider = ({ images }) => {
   const splideoptions = {
-    type: "fade",
     type: "loop",
     perPage: 1,
     perMove: 1,
@@ -17,7 +16,7 @@ const SplideSlider = ({ images }) => {
     <Splide options={splideoptions} className="my_splide">
       {images.map((image, index) => (
         <SplideSlide key={index}>
-          <img src={image.url} style={{ width: "100vw", height: "70vh" }} />
+          <img src={image.url} style={{ width: "100vw", height: "70vh" }} alt="product"/>
           <div
             style={{
               position: "absolute",
