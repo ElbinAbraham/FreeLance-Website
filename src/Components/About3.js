@@ -1,6 +1,6 @@
 import React from "react";
 import "./About3.css";
-import video from "../Components/video/Untitled.mp4"
+
 
 const About3 = () => {
   return (
@@ -23,10 +23,10 @@ const About3 = () => {
             prosperity.
           </p>
         </div>
-        <div className="Section8">
+        {/* <div className="Section8">
         <video src={video}  autoplay="true" loop muted controls>
         </video>
-        </div>
+        </div> */}
       </div>
     </>
   );
