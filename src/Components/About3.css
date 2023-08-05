@@ -38,6 +38,7 @@
     .Section7 .vision{
         width: 315px;
         font-size:20px;
+        text-align: justify;
         flex-wrap: wrap;
     }
 
