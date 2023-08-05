@@ -48,6 +48,6 @@
     display: none;
   }
   .my_splide .name2 {
-    display: contents;
+    display: flex;
   }
 }
