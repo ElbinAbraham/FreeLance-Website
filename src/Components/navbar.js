@@ -21,7 +21,7 @@ function Navbar() {
           <i className={click ? "fas fa-times" : "fas fa-bars"} />
         </div>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
-        <li className="social">
+        <li className="social social1">
               <a href="https://facebook.com">
                 <span className="fab fa-facebook-f"></span>
               </a>
@@ -35,7 +35,7 @@ function Navbar() {
                 <span className="fab fa-youtube"></span>
               </a>
             </li>
-          <li className="nav-item">
+          <li className="nav-item social1">
             <Link to="/home" className="nav-links" onClick={closeMobileMenu}>
               Home
             </Link>
