@@ -178,7 +178,7 @@
   .nav-menu {
     display: grid;
     grid-template-columns: repeat(6, auto);
-    grid-gap: 5px;
+    grid-gap: 4px;
     width: 100%;
     justify-content:start;
     margin-right:5px;
