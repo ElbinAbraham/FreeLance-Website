@@ -291,7 +291,7 @@
     width: 100%;
   }
 
-  .right h2{
+  .left h2, .right h2{
     font-size: 1rem;
   }
 
