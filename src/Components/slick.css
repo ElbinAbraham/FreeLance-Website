@@ -58,4 +58,12 @@
         display: flex;
         flex-direction: column;
     }
+    .glide-container{
+        width: 100vw;
+        height: 50vh;
+    }
+    .desc-container{
+        width: 100vw;
+        height: 50vh;
+    }
 }
