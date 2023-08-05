@@ -30,13 +30,13 @@
         flex-direction: column;
     }
     .Section7 .head{
-        font-size: 15px;
+        font-size: 20px;
         width: auto;
         justify-content: start;
     }
     .Section7 .vision{
         width: 200px;
-        font-size:12px;
+        font-size:15px;
         text-align: start;
     }
 
