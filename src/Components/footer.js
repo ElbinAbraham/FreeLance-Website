@@ -87,7 +87,7 @@ const Footer = () => {
                   required
                 ></textarea>
               </div>
-              <div className="msg1">
+              <div className="msg1 msg">
                 <div className="text">Message *</div>
                 <textarea
                   rows={10}
