@@ -66,4 +66,14 @@
         width: 100vw;
         height: 50vh;
     }
+    .glide-container .main-image{
+        margin-left: 1rem;
+        width: 90vw;
+        height: 50vh;
+    }
+    .glide-container .small{
+   
+        width: 1fr;
+        height: 5rem;
+    }
 }
