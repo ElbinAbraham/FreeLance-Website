@@ -29,6 +29,7 @@
         display: flex;
         flex-wrap: wrap;
         margin-right: 0rem;
+        text-align: none;
     }
     
     .Section4 .comp{

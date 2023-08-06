@@ -81,6 +81,7 @@ h1 {
     margin-left: 1rem;
     width: 315px;
     flex-wrap: wrap;
+    text-align: none;
   }
   
 }
