@@ -10,7 +10,7 @@ const About3 = () => {
         <div className="Section7">
           <h2 className="head">Visions</h2>
           <p className="vision">
-            Our vision at Ajay Export World is to EXPORT EXCELLENCE WORLDWIDE, empowering businesses to expand their reach and thrive in the
+            Our vision at Ajay Export World is to EXPORT EXCELLENCE WORLDWIDE,empowering businesses to expand their reach and thrive in the
             international market. We strive to become a catalyst for economic
             growth, fostering mutually beneficial relationships between
             suppliers and buyers across borders.
