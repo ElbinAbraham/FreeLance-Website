@@ -59,11 +59,11 @@
         flex-direction: column;
     }
     .glide-container{
-        width: 100vw;
+        width: 315px;
         height: 50vh;
     }
     .desc-container{
-        width: 100vw;
+        width: 315px;
         height: 50vh;
     }
     .glide-container .main-image{
@@ -73,7 +73,7 @@
     }
     .glide-container .small{
    
-        width: 1rem;
+        width: 3rem;
         height: 5rem;
     }
 }
