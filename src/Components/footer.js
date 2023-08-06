@@ -51,7 +51,7 @@ const Footer = () => {
               >
                 <span className="fas fa-envelope"></span>
               </a>
-              <span className="text">aaafinadvisor@gmail.com </span>
+              <span className="text">ajayexportworld@gmail.com</span>
             </div>
           </div>
           <div className="social">
