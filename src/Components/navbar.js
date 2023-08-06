@@ -25,14 +25,8 @@ function Navbar() {
               <a href="https://facebook.com">
                 <span className="fab fa-facebook-f"></span>
               </a>
-              <a href="https://whatsapp.com">
-                <span className="fab fa-whatsapp"></span>
-              </a>
               <a href="https://instagram.com">
                 <span className="fab fa-instagram"></span>
-              </a>
-              <a href="#https://youtube.com">
-                <span className="fab fa-youtube"></span>
               </a>
             </li>
           <li className="nav-item social1">
