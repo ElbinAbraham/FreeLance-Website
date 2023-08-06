@@ -24,7 +24,7 @@ const CardItems = ({
               <CardMedia
                 component="img"
                 image={card.src}
-                alt={card.alt}
+                alt={card.name}
                 height="140"
                 sx={{ width: "100%", height: "80%", objectFit: "fill" }}
                 onClick={() => onCardClick(card)}
