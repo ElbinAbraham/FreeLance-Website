@@ -68,12 +68,12 @@
     }
     .glide-container .main-image{
         margin-left: 1rem;
-        width: 90vw;
-        height: 50vh;
+        width: 300px;
+        height: 40vh;
     }
     .glide-container .small{
    
-        width: 1fr;
+        width: 1rem;
         height: 5rem;
     }
 }
