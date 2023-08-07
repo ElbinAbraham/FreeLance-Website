@@ -61,9 +61,12 @@
     .glide-container{
         width: 350px;
         height: auto;
+        margin-bottom: 2rem;
     }
     .desc-container{
-        display: none;
+        width: 315px;
+        height: auto;
+        margin-top: 2rem;
     }
     .glide-container .main-image{
         margin-top: 2rem;
