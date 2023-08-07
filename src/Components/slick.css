@@ -65,8 +65,9 @@
     }
     .desc-container{
         width: 315px;
-        height: auto;
+        height: 200px;
         margin-top: 2rem;
+        flex-wrap: wrap;
     }
     .glide-container .main-image{
         margin-top: 2rem;
