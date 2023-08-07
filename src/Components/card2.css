@@ -27,6 +27,12 @@
   }
   
   @media screen and (min-width:813px) and (max-width:1376px) {
+    .card-container .heading{
+      font-size: 25px;
+      font-weight: 600;
+      margin-bottom: 3rem;
+      
+    }
     .card-container{
       margin-left: 2rem;
     }
@@ -41,6 +47,12 @@
 
 
   @media screen and (max-width: 768px){
+    .card-container .heading{
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 3rem;
+      
+    }
     .card-container{
       margin-left:1.5rem;
     }
