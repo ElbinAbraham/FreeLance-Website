@@ -46,7 +46,7 @@
   }
 
 
-  @media screen and (max-width: 768px){
+  @media screen and (max-width: 500px){
     .card-container .heading{
       font-size: 15px;
       font-weight: 600;
@@ -60,7 +60,7 @@
   
     .card{
       margin-bottom: 1rem;
-      width: 10rem;
+      width: 21rem;
       height: 19rem;
     }
   }
