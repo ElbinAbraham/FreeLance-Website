@@ -304,12 +304,12 @@ const details = [
         desc: {
           title: "Ghee",
           point1:
-            "Cow's milk ghee: Cow's milk ghee is made from the milk of cows and is considered to be of high quality due to the nutritional properties of cow's milk. It has a rich, nutty flavour and aroma and is often used in cooking, baking, and for medicinal purposes. Cow's milk ghee is also used in Hindu religious rituals and is considered to be a sacred food.",
+            "<strong>Cow's milk ghee: </strong>Cow's milk ghee is made from the milk of cows and is considered to be of high quality due to the nutritional properties of cow's milk. It has a rich, nutty flavour and aroma and is often used in cooking, baking, and for medicinal purposes. Cow's milk ghee is also used in Hindu religious rituals and is considered to be a sacred food.",
           point2:
-            "Buffalo milk ghee: Buffalo milk ghee, on the other hand, is made from the milk of buffaloes and is known for its high fat content and creamy texture. It has a distinct flavour and aroma that is different from cow's milk ghee",
-          point3: "Type:",
-          point4: "1.Cow's milk ghee: Cow's milk ghee is made from the milk of cows and is considered to be of high quality due to the nutritional properties of cow's milk. It has a rich, nutty flavour and aroma and is often used in cooking, baking, and for medicinal purposes. Cow's milk ghee is also used in Hindu religious rituals and is considered to be a sacred food.",
-          point5:"2.Buffalo milk ghee: Buffalo milk ghee, on the other hand, is made from the milk of buffaloes and is known for its high fat content and creamy texture. It has a distinct flavour and aroma that is different from cow's milk ghee.",
+            "<strong>Buffalo milk ghee:</strong> Buffalo milk ghee, on the other hand, is made from the milk of buffaloes and is known for its high fat content and creamy texture. It has a distinct flavour and aroma that is different from cow's milk ghee",
+          point3: "<strong>Type:</strong>",
+          point4: "1.<strong>Cow's milk ghee:</strong> Cow's milk ghee is made from the milk of cows and is considered to be of high quality due to the nutritional properties of cow's milk. It has a rich, nutty flavour and aroma and is often used in cooking, baking, and for medicinal purposes. Cow's milk ghee is also used in Hindu religious rituals and is considered to be a sacred food.",
+          point5:"2.<strong>Buffalo milk ghee:</strong> Buffalo milk ghee, on the other hand, is made from the milk of buffaloes and is known for its high fat content and creamy texture. It has a distinct flavour and aroma that is different from cow's milk ghee.",
         },
         has: [
           {
@@ -347,9 +347,9 @@ const details = [
         desc: {
           title: "Honey",
           point1:"Honey production in India has a long history, with indigenous honeybees and traditional methods of beekeeping being practiced for centuries. After the honey is harvested from the beehives, it undergoes minimal processing to preserve its natural properties and flavors. The honey is filtered to remove any impurities, and sometimes, it is gently warmed to facilitate the filtration process. Export destinations for Indian honey include the United States, European countries, the Middle East, and Southeast Asia.",
-          point2:"Types:",
-          point3:"1.Multiflora honey: Multiflora honey also known as wildflower honey, is a type of honey produced by bees that collect nectar from various flowering plants. Multiflora honey can range in colour from light to dark and may have a floral, fruity, or spicy taste. In addition to its delicious taste, multiflora honey is also known for its health benefits. It is rich in antioxidants, vitamins, and minerals, making it a natural immune booster. Multiflora honey is also known for its antibacterial and anti-inflammatory properties, making it a popular natural remedy for various health issues. ",
-          point4:"2.Monofloral Honey: Monofloral honey is produced when bees predominantly collect nectar from a single type of flower. Some popular monofloral honey varieties in India include eucalyptus honey, litchi honey, neem honey, and sunflower honey. These honeys have distinct flavors and are highly sought after for their unique characteristics.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Multiflora honey:</strong> Multiflora honey also known as wildflower honey, is a type of honey produced by bees that collect nectar from various flowering plants. Multiflora honey can range in colour from light to dark and may have a floral, fruity, or spicy taste. In addition to its delicious taste, multiflora honey is also known for its health benefits. It is rich in antioxidants, vitamins, and minerals, making it a natural immune booster. Multiflora honey is also known for its antibacterial and anti-inflammatory properties, making it a popular natural remedy for various health issues. ",
+          point4:"2.<strong>Monofloral Honey:</strong> Monofloral honey is produced when bees predominantly collect nectar from a single type of flower. Some popular monofloral honey varieties in India include eucalyptus honey, litchi honey, neem honey, and sunflower honey. These honeys have distinct flavors and are highly sought after for their unique characteristics.",
         },
         has: [
           {
@@ -393,11 +393,11 @@ const details = [
         desc: {
           title: "Rice",
           point1:"India is a significant exporter of rice, catering to the demands of various countries around the world. Basmati rice, in particular, is a sought-after commodity in the international market due to its unique aroma and taste. Major export destinations for Indian rice include the Middle East, African countries, the United States, European nations, and Southeast Asia. India's diverse agro-climatic conditions make it suitable for growing a wide range of rice varieties. Major rice-producing states in India include West Bengal, Uttar Pradesh, Punjab, Andhra Pradesh, Tamil Nadu, and Odisha.",
-          point2:"Types: ",
+          point2:"<strong>Types:</strong>",
           point3:
-            "1.Basmati rice: Basmati rice is a long-grain rice that is known for its distinctive aroma and flavour. It is often used in Indian and Middle Eastern cuisine and is popular for dishes such as biryani, pilaf, and pulao. Basmati rice is also preferred by consumers who are health-conscious due to its low glycemic index.",
+            "1.<strong>Basmati rice:</strong> Basmati rice is a long-grain rice that is known for its distinctive aroma and flavour. It is often used in Indian and Middle Eastern cuisine and is popular for dishes such as biryani, pilaf, and pulao. Basmati rice is also preferred by consumers who are health-conscious due to its low glycemic index.",
           point4:
-            "2.Non-Basmati rice: Non-Basmati rice, on the other hand, includes several varieties such as Sona Masuri, Ponni, and IR64, among others. These varieties of rice are medium-grain or short-grain rice and are often used in dishes such as idlis, dosas, and rice bowls. Non-Basmati rice is also used in the production of rice flour, which is used in many food products.",
+            "2.<strong>Non-Basmati rice:</strong> Non-Basmati rice, on the other hand, includes several varieties such as Sona Masuri, Ponni, and IR64, among others. These varieties of rice are medium-grain or short-grain rice and are often used in dishes such as idlis, dosas, and rice bowls. Non-Basmati rice is also used in the production of rice flour, which is used in many food products.",
         },
         has: [
           {
@@ -446,12 +446,12 @@ const details = [
         subCategory: "Tea",
         desc: {
         title: "Tea",
-        point1: "1.Nilgiri Tea: Nilgiri tea is a dark, full-bodied tea with a smooth flavour that is grown in the Nilgiri Hills of southern India. It is often used in blends for making iced tea and is also popular as a black tea.",
-        point2: "2.Kangra Tea: Kangra tea is a specialty tea grown in the Kangra district of Himachal Pradesh. It has a delicate, floral aroma and a slightly sweet taste. It is often used in blends for making chai and is also popular as a green tea.",
-        point3: "3.CTC Tea: CTC stands for Crush, Tear, and Curl, which is a method of processing tea leaves. CTC tea is a strong, full-bodied tea that is often used in blends for making chai.",
-        point4: "4.Green Tea: Green tea is a popular health drink that is enjoyed worldwide. It is made from unfermented tea leaves and is known for its light, refreshing taste and numerous health benefits. India exports several varieties of green tea, including Assam green tea and Darjeeling green tea.",
-        point5: "5.Darjeeling Tea: Darjeeling tea is a premium tea grown in the Darjeeling district of West Bengal. It is known for its delicate and floral aroma, light body, and musky spiciness. It is often considered the champagne of teas and is a favourite among tea connoisseurs.",
-        point6: "6.Assam Tea: Assam tea is a strong, bold tea with a malty flavour that is grown in the northeastern state of Assam. It is often used in blends for making chai and is also popular as a black tea.",  
+        point1: "1.<strong>Nilgiri Tea:</strong> Nilgiri tea is a dark, full-bodied tea with a smooth flavour that is grown in the Nilgiri Hills of southern India. It is often used in blends for making iced tea and is also popular as a black tea.",
+        point2: "2.<strong>Kangra Tea:</strong> Kangra tea is a specialty tea grown in the Kangra district of Himachal Pradesh. It has a delicate, floral aroma and a slightly sweet taste. It is often used in blends for making chai and is also popular as a green tea.",
+        point3: "3.<strong>CTC Tea:</strong> CTC stands for Crush, Tear, and Curl, which is a method of processing tea leaves. CTC tea is a strong, full-bodied tea that is often used in blends for making chai.",
+        point4: "4.<strong>Green Tea:</strong> Green tea is a popular health drink that is enjoyed worldwide. It is made from unfermented tea leaves and is known for its light, refreshing taste and numerous health benefits. India exports several varieties of green tea, including Assam green tea and Darjeeling green tea.",
+        point5: "5.<strong>Darjeeling Tea:</strong> Darjeeling tea is a premium tea grown in the Darjeeling district of West Bengal. It is known for its delicate and floral aroma, light body, and musky spiciness. It is often considered the champagne of teas and is a favourite among tea connoisseurs.",
+        point6: "6.<strong>Assam Tea:</strong> Assam tea is a strong, bold tea with a malty flavour that is grown in the northeastern state of Assam. It is often used in blends for making chai and is also popular as a black tea.",  
       },
         has: [
           {
@@ -893,11 +893,11 @@ const details = [
         desc: {
           title: "Denim Fabrics",
           point1: "Denim fabric is a durable and versatile textile known for its characteristic twill weave and indigo dyeing. India exports denim fabric to various countries, including the United States, European nations, South American countries, and other parts of Asia. ",
-          point2:"Types:",
-          point3:"1.Raw Denim: Also known as dry denim or selvedge denim, raw denim is unwashed and untreated after weaving. It has a deep, dark blue color and tends to develop unique fading patterns over time as it is worn and washed.",
-          point4:"2.Washed Denim: Washed denim has undergone various washing and finishing processes to soften the fabric and give it a faded or distressed appearance. Different washes, such as stone washing or acid washing, can create a range of vintage or aged looks.",
-          point5:"3.Stretch Denim: Stretch denim contains a small percentage of elastane or spandex, providing added flexibility and comfort for garments like skinny jeans or jeggings.",
-          point6:"4.Colored Denim: In addition to traditional indigo, denim fabric can be dyed in various colors, offering a wide range of options beyond the classic blue.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Raw Denim:</strong> Also known as dry denim or selvedge denim, raw denim is unwashed and untreated after weaving. It has a deep, dark blue color and tends to develop unique fading patterns over time as it is worn and washed.",
+          point4:"2.<strong>Washed Denim:</strong> Washed denim has undergone various washing and finishing processes to soften the fabric and give it a faded or distressed appearance. Different washes, such as stone washing or acid washing, can create a range of vintage or aged looks.",
+          point5:"3.<strong>Stretch Denim:</strong> Stretch denim contains a small percentage of elastane or spandex, providing added flexibility and comfort for garments like skinny jeans or jeggings.",
+          point6:"4.<strong>Colored Denim:</strong> In addition to traditional indigo, denim fabric can be dyed in various colors, offering a wide range of options beyond the classic blue.",
         },
         has: [
           {
@@ -953,13 +953,13 @@ const details = [
         desc:{
           title:"Cotton Fabrics",
           point1:"Cotton fabric is made from natural fibers obtained from the cotton plant (Gossypium). Cotton fabrics are highly valued for their softness, breathability, comfort, and durability, making them suitable for a wide range of clothing and textile applications.India is one of the largest producers and exporters of cotton fabrics in the world.",
-          point2:"Types:",
-          point3:"1.Cotton Poplin: A lightweight, plain weave fabric with a smooth texture, often used for shirts, dresses, and blouses",
-          point4:"2.Cotton Twill: A durable fabric with diagonal parallel ribs, known for its strength and resistance to wrinkles. Twill fabrics are commonly used for pants, jackets, and workwear.",
-          point5:"3.Cotton Denim: A sturdy, rugged fabric with a characteristic diagonal twill weave, commonly used for jeans, jackets, and casual wear.",
-          point6:"4.Cotton Jersey: A soft, stretchy, and comfortable knit fabric, often used for T-shirts, dresses, and activewear.",
-          point7:"5.Cotton Voile: A lightweight and sheer fabric with a slightly crisp texture, suitable for blouses, dresses, and scarves.",
-          point8:"6.Cotton Canvas: A heavy, durable fabric with a plain weave, commonly used for bags, upholstery, and outdoor applications.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Cotton Poplin:</strong> A lightweight, plain weave fabric with a smooth texture, often used for shirts, dresses, and blouses",
+          point4:"2.<strong>Cotton Twill:</strong> A durable fabric with diagonal parallel ribs, known for its strength and resistance to wrinkles. Twill fabrics are commonly used for pants, jackets, and workwear.",
+          point5:"3.<strong>Cotton Denim:</strong> A sturdy, rugged fabric with a characteristic diagonal twill weave, commonly used for jeans, jackets, and casual wear.",
+          point6:"4.<strong>Cotton Jersey:</strong> A soft, stretchy, and comfortable knit fabric, often used for T-shirts, dresses, and activewear.",
+          point7:"5.<strong>Cotton Voile:</strong> A lightweight and sheer fabric with a slightly crisp texture, suitable for blouses, dresses, and scarves.",
+          point8:"6.<strong>Cotton Canvas:</strong> A heavy, durable fabric with a plain weave, commonly used for bags, upholstery, and outdoor applications.",
         },
         has: [
           {
@@ -997,12 +997,12 @@ const details = [
         desc: {
           title: "Hemp Fabrics",
           point1:"Hemp fabric is a versatile and sustainable textile made from fibers derived from the hemp plant (Cannabis sativa). India exports hemp fabric to several countries, including the United States, European nations, Canada, and other parts of the world. ",
-          point2:"Types:",
-          point3:"1.Hemp Canvas: Hemp canvas is a heavy and sturdy fabric commonly used for bags, backpacks, upholstery, and outdoor gear.",
-          point4:"2.Hemp Twill: Hemp twill is a durable fabric with a diagonal weave pattern, providing added strength and texture. It is used for clothing, such as pants, jackets, and skirts.",
-          point5:"3.Hemp Jersey: Hemp jersey is a lightweight and breathable knit fabric, making it suitable for comfortable clothing like T-shirts and casual wear.",
-          point6:"4.Hemp Linen: Hemp linen is a blend of hemp and flax fibers, creating a textured and breathable fabric used for garments and home textiles.",
-          point7:"5.HempDenim: Hemp denim blends hemp fibers with cotton to create a sustainable alternative to traditional denim fabric.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Hemp Canvas:</strong> Hemp canvas is a heavy and sturdy fabric commonly used for bags, backpacks, upholstery, and outdoor gear.",
+          point4:"2.<strong>Hemp Twill:</strong> Hemp twill is a durable fabric with a diagonal weave pattern, providing added strength and texture. It is used for clothing, such as pants, jackets, and skirts.",
+          point5:"3.<strong>Hemp Jersey:</strong> Hemp jersey is a lightweight and breathable knit fabric, making it suitable for comfortable clothing like T-shirts and casual wear.",
+          point6:"4.<strong>Hemp Linen:</strong> Hemp linen is a blend of hemp and flax fibers, creating a textured and breathable fabric used for garments and home textiles.",
+          point7:"5.<strong>HempDenim:</strong> Hemp denim blends hemp fibers with cotton to create a sustainable alternative to traditional denim fabric.",
         },
         has: [
           {
@@ -1401,10 +1401,10 @@ const details = [
         desc:{
           title:"Sunflower Oil",
           point1:"Sunflower oil is a widely consumed vegetable oil extracted from sunflower seeds (Helianthus annuus). It is one of the most popular cooking oils globally, known for its mild flavor, light color, and high smoke point. ",
-          point2:"Type:",
-          point3:"1.Refined Sunflower Oil: This is the most common type of sunflower oil found in the market. It is obtained through a refining process that involves removing impurities, colors, and odors, resulting in a neutral-flavored, light-colored oil with a higher smoke point. Refined sunflower oil is suitable for various cooking methods, including frying, baking, and sautéing",
-          point4:"2.High Oleic Sunflower Oil: High oleic sunflower oil is made from specific sunflower varieties with a higher concentration of monounsaturated fatty acids, particularly oleic acid. This type of sunflower oil has enhanced stability and a longer shelf life, making it suitable for commercial and industrial applications.",
-          point5:"3.Cold-Pressed Sunflower Oil: Cold-pressed sunflower oil is extracted using mechanical pressing methods without the use of high heat or chemicals. It retains more of the natural nutrients and flavor compared to refined sunflower oil.",
+          point2:"<strong>Type:</strong>",
+          point3:"1.<strong>Refined Sunflower Oil:</strong> This is the most common type of sunflower oil found in the market. It is obtained through a refining process that involves removing impurities, colors, and odors, resulting in a neutral-flavored, light-colored oil with a higher smoke point. Refined sunflower oil is suitable for various cooking methods, including frying, baking, and sautéing",
+          point4:"2.<strong>High Oleic Sunflower Oil:</strong> High oleic sunflower oil is made from specific sunflower varieties with a higher concentration of monounsaturated fatty acids, particularly oleic acid. This type of sunflower oil has enhanced stability and a longer shelf life, making it suitable for commercial and industrial applications.",
+          point5:"3.<strong>Cold-Pressed Sunflower Oil:</strong> Cold-pressed sunflower oil is extracted using mechanical pressing methods without the use of high heat or chemicals. It retains more of the natural nutrients and flavor compared to refined sunflower oil.",
         },
         has:[
           {
@@ -1448,9 +1448,9 @@ const details = [
         desc:{
           title:"Coconut oil",
           point1:"Coconut oil is a popular vegetable oil extracted from the copra or dried coconut meat. India is one of the major exporters of coconut oil globally. The country's abundant coconut cultivation and well-established processing facilities contribute to its significant export volumes. India exports coconut oil to various regions, including the Middle East, North America, Europe, Southeast Asia, and other parts of the world.",
-          point2:"Types:",
-          point3:"1.Refined Coconut Oil: This type of coconut oil is obtained from dried copra. It undergoes refining processes, including bleaching and deodorization, to remove impurities, resulting in a neutral flavor, a light color, and a higher smoke point. Refined coconut oil is well-suited for cooking, frying, and baking due to its stability under high temperatures.",
-          point4:"2.Virgin Coconut Oil (VCO): VCO is extracted from fresh coconut meat without undergoing significant refining processes. It retains its natural nutrients, flavor, and aroma, making it a popular choice for health-conscious consumers. VCO is used in cooking, as a health supplement, and extensively in the personal care industry.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Refined Coconut Oil:</strong> This type of coconut oil is obtained from dried copra. It undergoes refining processes, including bleaching and deodorization, to remove impurities, resulting in a neutral flavor, a light color, and a higher smoke point. Refined coconut oil is well-suited for cooking, frying, and baking due to its stability under high temperatures.",
+          point4:"2.<strong>Virgin Coconut Oil (VCO):</strong> VCO is extracted from fresh coconut meat without undergoing significant refining processes. It retains its natural nutrients, flavor, and aroma, making it a popular choice for health-conscious consumers. VCO is used in cooking, as a health supplement, and extensively in the personal care industry.",
         },
         has:[
           {
@@ -1500,9 +1500,9 @@ const details = [
         desc:{
           title:"Cotton Oil",
           point1:"Cottonseed oil is a vegetable oil derived from the seeds of the cotton plant (Gossypium hirsutum). Cottonseed oil is a popular cooking oil and industrial ingredient due to its relatively mild flavor, high smoke point, and versatile properties. India is one of the major producers of cottonseed oil globally. India exports cottonseed oil to various countries, including neighboring nations and international markets.",
-          point2:"Types:",
-          point3:"1.Refined Cottonseed Oil: This type of cottonseed oil undergoes refining processes to remove impurities, colors, and odors. Refined cottonseed oil has a light color and a neutral taste, making it ideal for cooking, frying, and baking.",
-          point4:"2.Crude Cottonseed Oil: Crude cottonseed oil is the unrefined form, obtained directly from cottonseed extraction. It requires further processing to become suitable for consumption.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Refined Cottonseed Oil:</strong> This type of cottonseed oil undergoes refining processes to remove impurities, colors, and odors. Refined cottonseed oil has a light color and a neutral taste, making it ideal for cooking, frying, and baking.",
+          point4:"2.<strong>Crude Cottonseed Oil:</strong> Crude cottonseed oil is the unrefined form, obtained directly from cottonseed extraction. It requires further processing to become suitable for consumption.",
         },
         has:[
           {
@@ -1540,10 +1540,10 @@ const details = [
         desc:{
           title:"Sesame Oil",
           point1:"Sesame oil, also known as gingelly oil, is an edible vegetable oil derived from sesame seeds (Sesamum indicum).The sesame plant is native to Africa and India. India is one of the major producers and exporters of sesame oil. Indian sesame oil is exported to several countries around the world, including the United States, Japan, China, South Korea, and European nations. India produces both light and dark sesame oil to cater to various culinary preferences.",
-          point2:"Types:",
-          point3:"1.Light Sesame Oil: This type of sesame oil is made from lightly toasted sesame seeds and has a mild flavor. It is commonly used in salad dressings, marinades, and for drizzling over dishes.",
-          point4:"2.Dark Sesame Oil: Dark sesame oil is made from roasted sesame seeds, giving it a stronger, richer flavor. It is often used as a seasoning in stir-fries, soups, and various Asian dishes.",
-          point5:"3.Cold-Pressed Sesame Oil: Cold-pressed sesame oil is extracted without the use of high heat or chemicals, preserving more of the natural nutrients and flavors.",
+          point2:"<strong>Types:</strong>",
+          point3:"1.<strong>Light Sesame Oil:</strong> This type of sesame oil is made from lightly toasted sesame seeds and has a mild flavor. It is commonly used in salad dressings, marinades, and for drizzling over dishes.",
+          point4:"2.<strong>Dark Sesame Oil:</strong> Dark sesame oil is made from roasted sesame seeds, giving it a stronger, richer flavor. It is often used as a seasoning in stir-fries, soups, and various Asian dishes.",
+          point5:"3.<strong>Cold-Pressed Sesame Oil:</strong> Cold-pressed sesame oil is extracted without the use of high heat or chemicals, preserving more of the natural nutrients and flavors.",
         },
         has:[
           {
@@ -1581,9 +1581,9 @@ const details = [
         desc:{
           title:"Palm Oil",
           point1:"Palm oil is a versatile and widely used vegetable oil extracted from the fruit of the oil palm tree, scientifically known as Elaeis guineensis. ",
-          point2:"Types:",
-          point3:"1.Crude Palm Oil (CPO): This is the unprocessed form of palm oil obtained from the palm fruit. It undergoes various refining processes to produce different types of palm oil with specific characteristics.",
-          point4:"2.Refined, Bleached, and Deodorized Palm Oil (RBD): RBD palm oil is the most commonly used and exported form. It is processed to remove impurities, color, and odor, resulting in a neutral flavor and a higher smoke point, making it suitable for various culinary applications.",
+          point2:"<strong>Types:",
+          point3:"1.<strong>Crude Palm Oil (CPO):</strong> This is the unprocessed form of palm oil obtained from the palm fruit. It undergoes various refining processes to produce different types of palm oil with specific characteristics.",
+          point4:"2.<strong>Refined, Bleached, and Deodorized Palm Oil (RBD):</strong> RBD palm oil is the most commonly used and exported form. It is processed to remove impurities, color, and odor, resulting in a neutral flavor and a higher smoke point, making it suitable for various culinary applications.",
         },
         has:[
         {
@@ -1629,11 +1629,11 @@ const details = [
         subCategory: "Chilli",
         desc:{
           title:"Chilli",
-          point1:"1.Kashmiri chilli: Kashmiri chillies are known for their bright red colour and mild heat. They are often used for their colour and to add a mild heat to dishes like curries, tandoori chicken, and biryanis.",
-          point2:"2.Byadgi chilli: Byadgi chillies are native to Karnataka and are known for their deep red color and medium heat. They are often used in South Indian dishes like sambar, rasam, and chutneys.", 
-          point3:"3.Guntur chilli: Guntur chillies are grown in the Guntur region of Andhra Pradesh and are known for their high heat and pungent flavour. They are often used in spicy Andhra-style dishes like biryanis, curries, and chutneys.",
-          point4:"4.Bhut Jolokia chilli: Bhut Jolokia or Ghost chillies are one of the hottest chillies in the world, and are native to Northeast India. They are often used in small quantities to add intense heat to dishes like pickles, chutneys, and sauces.",
-          point5:"5.Red Cayenne pepper: This type of pepper is commonly used in Indian cooking and is known for its hot and spicy flavor. It is often used in dishes like vindaloo and other spicy curries.",
+          point1:"1.<strong>Kashmiri chilli:</strong> Kashmiri chillies are known for their bright red colour and mild heat. They are often used for their colour and to add a mild heat to dishes like curries, tandoori chicken, and biryanis.",
+          point2:"2.<strong>Byadgi chilli:</strong> Byadgi chillies are native to Karnataka and are known for their deep red color and medium heat. They are often used in South Indian dishes like sambar, rasam, and chutneys.", 
+          point3:"3.<strong>Guntur chilli:</strong> Guntur chillies are grown in the Guntur region of Andhra Pradesh and are known for their high heat and pungent flavour. They are often used in spicy Andhra-style dishes like biryanis, curries, and chutneys.",
+          point4:"4.<strong>Bhut Jolokia chilli:</strong> Bhut Jolokia or Ghost chillies are one of the hottest chillies in the world, and are native to Northeast India. They are often used in small quantities to add intense heat to dishes like pickles, chutneys, and sauces.",
+          point5:"5.<strong>Red Cayenne pepper:</strong> This type of pepper is commonly used in Indian cooking and is known for its hot and spicy flavor. It is often used in dishes like vindaloo and other spicy curries.",
         },
         has:[
           {
@@ -1671,8 +1671,8 @@ const details = [
         subCategory: "Cumin",
         desc:{
           title:"Cumin",
-          point1:"1.Jeera (Cuminum cyminum): Jeera or cumin is the most commonly used type of cumin in Indian cooking. It has a warm, earthy, and slightly bitter flavour and is used in a wide range of dishes, including curries, soups, and spice blends.",
-          point2:"2.Shahi Jeera (Carum carvi): Shahi jeera, also known as black cumin or caraway seeds, is a less commonly used variety of cumin in India. It has a milder flavour than jeera and is used in dishes like biryanis, kormas, and sweet dishes.",
+          point1:"1.<strong>Jeera (Cuminum cyminum):</strong> Jeera or cumin is the most commonly used type of cumin in Indian cooking. It has a warm, earthy, and slightly bitter flavour and is used in a wide range of dishes, including curries, soups, and spice blends.",
+          point2:"2.<strong>Shahi Jeera (Carum carvi):</strong> Shahi jeera, also known as black cumin or caraway seeds, is a less commonly used variety of cumin in India. It has a milder flavour than jeera and is used in dishes like biryanis, kormas, and sweet dishes.",
         },
         has:[
           {
@@ -1704,7 +1704,7 @@ const details = [
         desc:{
           title:"Fennel",
           point1:"Fennel seeds are oval-shaped, greenish-brown in color, and resemble cumin seeds in appearance. Fennel cultivation in India is primarily concentrated in the states of Rajasthan, Gujarat, Uttar Pradesh, Punjab, and Haryana. Indian farmers have developed traditional methods and modern agricultural practices to ensure a good yield of high-quality fennel seeds. ",
-          point2:"Uses:",
+          point2:"<strong>Uses:</strong>",
           point3:"Fennel seeds are used as a spice to add flavor to a variety of dishes. They are commonly used in European, Mediterranean, and Indian cuisines. In Indian cooking, fennel seeds are often included in spice blends like panch phoron and garam masala.In Mediterranean and European cuisines, fennel seeds are used in bread, desserts, sausages, and seafood dishes.Fennel seeds also have a long history of use as a digestive aid. They are often consumed after meals as a mouth freshener and to promote digestion.Fennel seed tea is popular in various cultures as a soothing herbal infusion with potential digestive benefits.",
         },
         has:[
@@ -1736,9 +1736,9 @@ const details = [
         subCategory: "Turmeric",
         desc:{
           title:"Turmeric",
-          point1:"1.Alleppey Finger turmeric: This type of turmeric is grown in the Alleppey region of Kerala and is considered to be the best quality turmeric in India. It has a high percentage of curcumin, which is the active ingredient that gives turmeric its medicinal properties.",
-          point2:"2.Rajapore turmeric: This type of turmeric is grown in the Rajapore region of Maharashtra and is known for its bright yellow colour and mild flavour. It has a lower percentage of curcumin compared to Alleppey turmeric.",
-          point3:"3.Erode turmeric: This type of turmeric is grown in the Erode region of Tamil Nadu and is known for its pungent flavour and deep colour. It has a moderate percentage of curcumin.",
+          point1:"1.<strong>Alleppey Finger turmeric:</strong> This type of turmeric is grown in the Alleppey region of Kerala and is considered to be the best quality turmeric in India. It has a high percentage of curcumin, which is the active ingredient that gives turmeric its medicinal properties.",
+          point2:"2.<strong>Rajapore turmeric:</strong> This type of turmeric is grown in the Rajapore region of Maharashtra and is known for its bright yellow colour and mild flavour. It has a lower percentage of curcumin compared to Alleppey turmeric.",
+          point3:"3.<strong>Erode turmeric:</strong> This type of turmeric is grown in the Erode region of Tamil Nadu and is known for its pungent flavour and deep colour. It has a moderate percentage of curcumin.",
         },
         has:[
           {
