@@ -248,13 +248,13 @@ const details = [
         desc: {
           title: "Coffee",
           point1:
-            "1.Arabica Coffee: Arabica coffee is the most popular variety of coffee grown in India and is highly prized for its mild, sweet, and fruity flavour. It is typically grown at high altitudes and is often used to make specialty coffees, such as espresso.",
+            "1.<strong>Arabica Coffee:</strong> Arabica coffee is the most popular variety of coffee grown in India and is highly prized for its mild, sweet, and fruity flavour. It is typically grown at high altitudes and is often used to make specialty coffees, such as espresso.",
           point2:
-            "2.Robusta Coffee: Robusta coffee is another popular variety of coffee grown in India. It has a stronger, more bitter taste than Arabica coffee and is often used in blends to add depth and flavour.",
+            "2.<strong>Robusta Coffee</strong>: Robusta coffee is another popular variety of coffee grown in India. It has a stronger, more bitter taste than Arabica coffee and is often used in blends to add depth and flavour.",
           point3:
-            "3.Monsooned Malabar Coffee: Monsooned Malabar coffee is a unique variety of coffee that is exclusive to India. It is created by exposing green coffee beans to the monsoon winds, causing them to absorb moisture and swell up. This results in a distinct flavour profile that is rich, earthy, and low in acidity",
+            "3.<strong>Monsooned Malabar Coffee</strong>Monsooned Malabar Coffee: Monsooned Malabar coffee is a unique variety of coffee that is exclusive to India. It is created by exposing green coffee beans to the monsoon winds, causing them to absorb moisture and swell up. This results in a distinct flavour profile that is rich, earthy, and low in acidity",
           point4:
-            "4.Peaberry Coffee: Peaberry coffee beans are a rare and highly prized variety of coffee that are found in only 5% of coffee crops. These beans are smaller than regular coffee beans and have a round shape. They are known for their intense flavour and complexity and are often used to make premium coffees.",
+            "4.<strong>Peaberry Coffee</strong>: Peaberry coffee beans are a rare and highly prized variety of coffee that are found in only 5% of coffee crops. These beans are smaller than regular coffee beans and have a round shape. They are known for their intense flavour and complexity and are often used to make premium coffees.",
         },
         has: [
           {
