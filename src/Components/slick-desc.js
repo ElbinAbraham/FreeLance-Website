@@ -17,7 +17,7 @@ const SlickDesc = ({ desc }) => {
           </div>
           <div className="slick-desc-text">
             {points.map((point, index) => (
-              <p key={index} dangerouslySetInnerHTML={{ __html: point }} />
+              <p className="para" key={index} dangerouslySetInnerHTML={{ __html: point }} />
             ))}
           </div>
         </div>

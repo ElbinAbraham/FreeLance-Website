@@ -4,6 +4,8 @@
     flex-direction: column;
 }
 
+
+
 .slick-desc .slick-desc-title{
     font-size: 2rem;
     font-weight: 600;
@@ -24,4 +26,10 @@
 .slick-desc .slick-desc-text p{
     padding-left: 2rem;
     padding-right: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .para{
+        width:350px;
+    }
 }
