@@ -63,8 +63,7 @@
         height: auto;
     }
     .desc-container{
-        width: 350px;
-        height: auto;
+        display: none;
     }
     .glide-container .main-image{
         margin-top: 2rem;
