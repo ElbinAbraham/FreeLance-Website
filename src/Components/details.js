@@ -701,6 +701,10 @@ const details = [
         name: "Tools",
         category: "Fasteners",
         subCategory: "Tools",
+        desc: {
+          title: "",
+          point: "",
+        },
         has: [
           {
             id: 1,
